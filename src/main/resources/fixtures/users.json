@@ -1,0 +1,331 @@
+[ {
+  "id" : "28db4f14-2333-345c-a387-013470186141",
+  "createdAt" : {
+    "$date" : "2023-04-15T18:07:20.676253400Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-04-15T18:07:20.676253400Z"
+  },
+  "personal" : {
+    "firstName" : "Corvin",
+    "lastName" : "Frisch",
+    "profilPicture" : null
+  },
+  "email" : {
+    "email" : "alexis.kulma@hotmail.com"
+  },
+  "password" : {
+    "password" : "{bcrypt}$2a$10$ywZPVsApCtF9wCHCcmYMgO.pAqKWSlKYv/fZWqpnjO21//I8NO20u"
+  },
+  "partner" : {
+    "self" : "598cc620-5abc-4312-901c-36d237aa84d5",
+    "partners" : [ ]
+  },
+  "drinks" : { },
+  "countedCourses" : { },
+  "userGroup" : "STUDENT",
+  "account" : {
+    "enabled" : true,
+    "verificationToken" : null
+  },
+  "completedCourses" : [ ],
+  "helper" : true,
+  "leader" : true
+}, {
+  "id" : "4338e063-7366-391b-9183-cc08e767053d",
+  "createdAt" : {
+    "$date" : "2023-04-15T18:07:20.840661900Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-04-15T18:07:20.840661900Z"
+  },
+  "personal" : {
+    "firstName" : "Marlene",
+    "lastName" : "Fenner",
+    "profilPicture" : null
+  },
+  "email" : {
+    "email" : "maria.scheuring@yahoo.com"
+  },
+  "password" : {
+    "password" : "{bcrypt}$2a$10$rlmvRwGJtYFAY8FjaVUMveJX5y.J7qFa7awkbQb3xlRxXVxKnX5ge"
+  },
+  "partner" : {
+    "self" : "40ef3a72-6cc4-45e5-a25e-92ef7b6a448a",
+    "partners" : [ ]
+  },
+  "drinks" : { },
+  "countedCourses" : { },
+  "userGroup" : "STUDENT",
+  "account" : {
+    "enabled" : true,
+    "verificationToken" : null
+  },
+  "completedCourses" : [ ],
+  "helper" : true,
+  "leader" : true
+}, {
+  "id" : "d6a53d69-ff93-3adb-89f0-4f0bc77584a0",
+  "createdAt" : {
+    "$date" : "2023-04-15T18:07:20.973129800Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-04-15T18:07:20.973129800Z"
+  },
+  "personal" : {
+    "firstName" : "Mia",
+    "lastName" : "Lange",
+    "profilPicture" : null
+  },
+  "email" : {
+    "email" : "tabea.kolotzei@hotmail.com"
+  },
+  "password" : {
+    "password" : "{bcrypt}$2a$10$BkX30htqhAFWoQv.PzrRJO9s7GynGi2UfpCN6prLQSjB/.OWkYh2C"
+  },
+  "partner" : {
+    "self" : "267dbd37-43f0-4dfd-8776-9dff00b2e095",
+    "partners" : [ ]
+  },
+  "drinks" : { },
+  "countedCourses" : { },
+  "userGroup" : "STUDENT",
+  "account" : {
+    "enabled" : true,
+    "verificationToken" : null
+  },
+  "completedCourses" : [ ],
+  "helper" : false,
+  "leader" : true
+}, {
+  "id" : "ffacb5f2-4fa2-3620-8575-c3f051dac1bb",
+  "createdAt" : {
+    "$date" : "2023-04-15T18:07:21.105574600Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-04-15T18:07:21.105574600Z"
+  },
+  "personal" : {
+    "firstName" : "Joanna",
+    "lastName" : "Peselman",
+    "profilPicture" : null
+  },
+  "email" : {
+    "email" : "laurence.martel@yahoo.com"
+  },
+  "password" : {
+    "password" : "{bcrypt}$2a$10$p2mLn4g7ghchZ4lo73w3a.NixFc1A2AMHeiAMgwBs1QdLHlWgYbu."
+  },
+  "partner" : {
+    "self" : "a2665204-2292-4f28-9d80-48faf9300b01",
+    "partners" : [ ]
+  },
+  "drinks" : { },
+  "countedCourses" : { },
+  "userGroup" : "STUDENT",
+  "account" : {
+    "enabled" : true,
+    "verificationToken" : null
+  },
+  "completedCourses" : [ ],
+  "helper" : true,
+  "leader" : false
+}, {
+  "id" : "a275a1dc-ee75-3a60-b2a8-f535ca31a177",
+  "createdAt" : {
+    "$date" : "2023-04-15T18:07:21.237858500Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-04-15T18:07:21.237858500Z"
+  },
+  "personal" : {
+    "firstName" : "Luiz",
+    "lastName" : "Schwarthoff",
+    "profilPicture" : null
+  },
+  "email" : {
+    "email" : "furkan.wischek@hotmail.com"
+  },
+  "password" : {
+    "password" : "{bcrypt}$2a$10$lelvcCt2GacwKORWYbYhNukPMpqBGnZril53pANHEgdYbgJmpaZmq"
+  },
+  "partner" : {
+    "self" : "906b5c26-fe1f-45f4-b8de-f88d93f71c60",
+    "partners" : [ ]
+  },
+  "drinks" : { },
+  "countedCourses" : { },
+  "userGroup" : "STUDENT",
+  "account" : {
+    "enabled" : true,
+    "verificationToken" : null
+  },
+  "completedCourses" : [ ],
+  "helper" : true,
+  "leader" : false
+}, {
+  "id" : "4d584ac8-fad9-3a5f-a5be-56205822cff5",
+  "createdAt" : {
+    "$date" : "2023-04-15T18:07:21.372140100Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-04-15T18:07:21.372140100Z"
+  },
+  "personal" : {
+    "firstName" : "Carolin",
+    "lastName" : "Swillims",
+    "profilPicture" : null
+  },
+  "email" : {
+    "email" : "ella.klabuhn@hotmail.com"
+  },
+  "password" : {
+    "password" : "{bcrypt}$2a$10$IxtcUnZCUsat8hiQfxlGdeZfpgSK6AszoNG54TETmQzhn90eTuwdK"
+  },
+  "partner" : {
+    "self" : "af8b2dd1-9ebf-433f-93ef-11cecb6aa623",
+    "partners" : [ ]
+  },
+  "drinks" : { },
+  "countedCourses" : { },
+  "userGroup" : "STUDENT",
+  "account" : {
+    "enabled" : true,
+    "verificationToken" : null
+  },
+  "completedCourses" : [ ],
+  "helper" : false,
+  "leader" : false
+}, {
+  "id" : "a3d68aec-a9a5-3f60-ba88-c3f8aa3a5b07",
+  "createdAt" : {
+    "$date" : "2023-04-15T18:07:21.503428700Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-04-15T18:07:21.503428700Z"
+  },
+  "personal" : {
+    "firstName" : "Ilja",
+    "lastName" : "Tudow",
+    "profilPicture" : null
+  },
+  "email" : {
+    "email" : "pia.bottner@gmail.com"
+  },
+  "password" : {
+    "password" : "{bcrypt}$2a$10$a5BtZjuM.3Te/drElzL3d.PoWrDz84dvr3UQ9l3mdhsbewCvluwRe"
+  },
+  "partner" : {
+    "self" : "8c2b9dd6-0d27-46bd-bc53-1b75623c2c98",
+    "partners" : [ ]
+  },
+  "drinks" : { },
+  "countedCourses" : { },
+  "userGroup" : "STUDENT",
+  "account" : {
+    "enabled" : true,
+    "verificationToken" : null
+  },
+  "completedCourses" : [ ],
+  "helper" : true,
+  "leader" : true
+}, {
+  "id" : "001a28fb-2c7b-32ec-9d11-9212d75ca20b",
+  "createdAt" : {
+    "$date" : "2023-04-15T18:07:21.644839900Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-04-15T18:07:21.644839900Z"
+  },
+  "personal" : {
+    "firstName" : "Tillmann",
+    "lastName" : "Garatva",
+    "profilPicture" : null
+  },
+  "email" : {
+    "email" : "omar.haber@hotmail.com"
+  },
+  "password" : {
+    "password" : "{bcrypt}$2a$10$BNFc98Ae8qbqfiBqQffQruRzs3t58QqNNFXUaHrZ.A0NFeGN91Jqq"
+  },
+  "partner" : {
+    "self" : "ecee62ef-69d0-4117-88c5-243b27983148",
+    "partners" : [ ]
+  },
+  "drinks" : { },
+  "countedCourses" : { },
+  "userGroup" : "STUDENT",
+  "account" : {
+    "enabled" : true,
+    "verificationToken" : null
+  },
+  "completedCourses" : [ ],
+  "helper" : false,
+  "leader" : true
+}, {
+  "id" : "65a7d3c0-dbdd-320e-a8b9-2795d0fa9e05",
+  "createdAt" : {
+    "$date" : "2023-04-15T18:07:21.772733100Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-04-15T18:07:21.772733100Z"
+  },
+  "personal" : {
+    "firstName" : "Ilja",
+    "lastName" : "Lewke",
+    "profilPicture" : null
+  },
+  "email" : {
+    "email" : "baris.lipske@yahoo.com"
+  },
+  "password" : {
+    "password" : "{bcrypt}$2a$10$zpodx4oDodJ9fMJi1veWeegCiwb1d/EwJOSuRcBbubVb2OLqVYs0K"
+  },
+  "partner" : {
+    "self" : "3ff93947-100d-4d98-9e36-f1b9f4e91860",
+    "partners" : [ ]
+  },
+  "drinks" : { },
+  "countedCourses" : { },
+  "userGroup" : "STUDENT",
+  "account" : {
+    "enabled" : true,
+    "verificationToken" : null
+  },
+  "completedCourses" : [ ],
+  "helper" : false,
+  "leader" : true
+}, {
+  "id" : "5ba7e0bd-1031-3d4e-9be3-7c2be79eea5f",
+  "createdAt" : {
+    "$date" : "2023-04-15T18:07:21.903329200Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-04-15T18:07:21.903329200Z"
+  },
+  "personal" : {
+    "firstName" : "Josef",
+    "lastName" : "Bender",
+    "profilPicture" : null
+  },
+  "email" : {
+    "email" : "ian.wickert@gmail.com"
+  },
+  "password" : {
+    "password" : "{bcrypt}$2a$10$1NvGrGk7wycLRc3AdaqZaOW3.XjnA1QO5i8F5gDbiZLZnCFFovEqK"
+  },
+  "partner" : {
+    "self" : "03bf4836-26a8-4177-b16a-4d5074c09544",
+    "partners" : [ ]
+  },
+  "drinks" : { },
+  "countedCourses" : { },
+  "userGroup" : "STUDENT",
+  "account" : {
+    "enabled" : true,
+    "verificationToken" : null
+  },
+  "completedCourses" : [ ],
+  "helper" : false,
+  "leader" : true
+} ]

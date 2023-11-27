@@ -1,0 +1,5311 @@
+[ {
+  "id" : "66f859d3-a375-4114-bdd7-ae42d75730d4",
+  "createdAt" : {
+    "$date" : "2023-08-15T15:14:34.676801800Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-08-15T15:14:34.676801800Z"
+  },
+  "startsAt" : {
+    "$date" : "2023-08-16T16:14:34.885412200Z"
+  },
+  "endsAt" : {
+    "$date" : "2023-08-16T18:14:34.885412200Z"
+  },
+  "maxUsers" : 10,
+  "followerLeaderBalance" : 2,
+  "booked" : [ ],
+  "teachers" : [ ],
+  "address" : {
+    "street" : "Kerpelystraße 5",
+    "houseNumber" : 472,
+    "zip" : 9115,
+    "city" : "Preitenegg",
+    "country" : "Demokratische Republik Kongo"
+  },
+  "courseType" : "LEVEL1",
+  "courseRequirement" : "LEVEL0",
+  "courseStatus" : "OPEN",
+  "runTime" : 8,
+  "bookAbleAt" : {
+    "$date" : "2023-08-15T15:14:34.676801800Z"
+  },
+  "bookAbleTo" : {
+    "$date" : "2023-09-26T15:14:34.676801800Z"
+  },
+  "theme" : "Annabelle",
+  "price" : 72.75,
+  "courseProgramm" : {
+    "programm" : "cklmxugmyh1kuby8u0nne06r90xj0bjxwyxfkob8hdgh5xqlvx81ld1025abb30p43bj038n5ouum1d0bv8w72g2isuaz4i1p7bi9jn7uf7npvbe11go0uw215suax5mq1gku4o1symo5kwmi80l8pfusfq4k6tyj9ntpqe00x0lkac59kzjmw65mvwonn6kg93t0hbolzk"
+  },
+  "courseDescription" : {
+    "description" : "8vba641d71y0j0fyll4p"
+  },
+  "events" : [ {
+    "id" : "fe51f53f-4516-4417-8085-c6f514fb3a0c",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.936031800Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.936031800Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-16T16:14:34.885412200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-16T18:14:34.885412200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "7f3b25cc-d5cf-4d8b-92ca-6f24f464886d",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.936031800Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.936031800Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-23T16:14:34.885412200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-23T18:14:34.885412200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "1cc0276f-bc93-4ec7-8252-e8324df1f9fc",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.936031800Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.936031800Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-30T16:14:34.885412200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-30T18:14:34.885412200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "39cd12f9-3c4c-4e0d-8f15-96ce2ed262b7",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.936031800Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.936031800Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-06T16:14:34.885412200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-06T18:14:34.885412200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "f3bb5502-c51f-4b2f-890e-3cffcc949437",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.936031800Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.936031800Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-13T16:14:34.885412200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-13T18:14:34.885412200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "9f24b010-aef8-411d-ab32-5f14a21e5667",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.936031800Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.936031800Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-20T16:14:34.885412200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-20T18:14:34.885412200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "7a60d25f-83dc-4529-9742-2fbed2b8a817",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.936031800Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.936031800Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-27T16:14:34.885412200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-27T18:14:34.885412200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "e9ab6124-35bd-4bab-9e2d-3d48b77e7023",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.936031800Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.936031800Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-10-04T16:14:34.885412200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-10-04T18:14:34.885412200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  } ],
+  "pairCourse" : true
+}, {
+  "id" : "1eb99118-fa07-4540-aaf7-2881d9e3d975",
+  "createdAt" : {
+    "$date" : "2023-08-15T15:14:34.937264Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-08-15T15:14:34.937264Z"
+  },
+  "startsAt" : {
+    "$date" : "2023-08-16T16:14:34.937264Z"
+  },
+  "endsAt" : {
+    "$date" : "2023-08-16T18:14:34.937264Z"
+  },
+  "maxUsers" : 10,
+  "followerLeaderBalance" : 2,
+  "booked" : [ ],
+  "teachers" : [ ],
+  "address" : {
+    "street" : "Paul Peters-Gasse 81b",
+    "houseNumber" : 138,
+    "zip" : 1825,
+    "city" : "Innsbruck",
+    "country" : "Uruguay"
+  },
+  "courseType" : "LEVEL1",
+  "courseRequirement" : "LEVEL0",
+  "courseStatus" : "OPEN",
+  "runTime" : 3,
+  "bookAbleAt" : {
+    "$date" : "2023-08-15T15:14:34.937264Z"
+  },
+  "bookAbleTo" : {
+    "$date" : "2023-09-12T15:14:34.937264Z"
+  },
+  "theme" : "Corvin",
+  "price" : 60.51,
+  "courseProgramm" : {
+    "programm" : "hwfe3m0udbzfym5uaqx8j4nsekwmqv1diqyaow8j6jzrmh2fv9wliv3gre5pcdzhwnnlysi7dgm6gr"
+  },
+  "courseDescription" : {
+    "description" : "5zf4xhr0m9cjgbyr3o06kqdv3a447dja9e0ox6hehqiewip0w7eohrlmv5uhqn76xg8fgrg8bzcusxvb40afw55c799qk"
+  },
+  "events" : [ {
+    "id" : "c360b179-030b-4b3b-b55e-618c6f568ce2",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-16T16:14:34.937264Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-16T18:14:34.937264Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Paul Peters-Gasse 81b",
+      "houseNumber" : 138,
+      "zip" : 1825,
+      "city" : "Innsbruck",
+      "country" : "Uruguay"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "3bbc2f35-f2dd-41cd-8341-2f32a0e672ef",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-23T16:14:34.937264Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-23T18:14:34.937264Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Paul Peters-Gasse 81b",
+      "houseNumber" : 138,
+      "zip" : 1825,
+      "city" : "Innsbruck",
+      "country" : "Uruguay"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "0d1d986e-6eb9-4136-a282-5aa98b6f288b",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-30T16:14:34.937264Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-30T18:14:34.937264Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Paul Peters-Gasse 81b",
+      "houseNumber" : 138,
+      "zip" : 1825,
+      "city" : "Innsbruck",
+      "country" : "Uruguay"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  } ],
+  "pairCourse" : true
+}, {
+  "id" : "f1589d1e-7da3-4629-a942-c112c222cce6",
+  "createdAt" : {
+    "$date" : "2023-08-15T15:14:34.938278500Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-08-15T15:14:34.938278500Z"
+  },
+  "startsAt" : {
+    "$date" : "2023-08-16T16:14:34.938278500Z"
+  },
+  "endsAt" : {
+    "$date" : "2023-08-16T18:14:34.938278500Z"
+  },
+  "maxUsers" : 10,
+  "followerLeaderBalance" : 2,
+  "booked" : [ ],
+  "teachers" : [ ],
+  "address" : {
+    "street" : "Straßerau 05",
+    "houseNumber" : 556,
+    "zip" : 7040,
+    "city" : "Geiersberg",
+    "country" : "Heard und McDonaldinseln"
+  },
+  "courseType" : "LEVEL1",
+  "courseRequirement" : "LEVEL0",
+  "courseStatus" : "OPEN",
+  "runTime" : 5,
+  "bookAbleAt" : {
+    "$date" : "2023-08-15T15:14:34.938278500Z"
+  },
+  "bookAbleTo" : {
+    "$date" : "2023-10-03T15:14:34.938278500Z"
+  },
+  "theme" : "Alana",
+  "price" : 6.88,
+  "courseProgramm" : {
+    "programm" : "v6s78q4h2"
+  },
+  "courseDescription" : {
+    "description" : "u9nqh8knk87orkwnz1oavalaq19"
+  },
+  "events" : [ {
+    "id" : "ec30324f-6384-440e-918b-bbb46b3b4d4a",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-16T16:14:34.938278500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-16T18:14:34.938278500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Straßerau 05",
+      "houseNumber" : 556,
+      "zip" : 7040,
+      "city" : "Geiersberg",
+      "country" : "Heard und McDonaldinseln"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "94bd4505-771d-41d5-ae09-51bfd7e83f55",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-23T16:14:34.938278500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-23T18:14:34.938278500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Straßerau 05",
+      "houseNumber" : 556,
+      "zip" : 7040,
+      "city" : "Geiersberg",
+      "country" : "Heard und McDonaldinseln"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "3cae6bac-4b1a-4c10-9af1-0e1b61451a1c",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-30T16:14:34.938278500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-30T18:14:34.938278500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Straßerau 05",
+      "houseNumber" : 556,
+      "zip" : 7040,
+      "city" : "Geiersberg",
+      "country" : "Heard und McDonaldinseln"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "ce92727c-2076-49d1-94c9-39da30938658",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-06T16:14:34.938278500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-06T18:14:34.938278500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Straßerau 05",
+      "houseNumber" : 556,
+      "zip" : 7040,
+      "city" : "Geiersberg",
+      "country" : "Heard und McDonaldinseln"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "28bc3576-090f-41e8-bed2-ed5595bc4de8",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-13T16:14:34.938278500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-13T18:14:34.938278500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Straßerau 05",
+      "houseNumber" : 556,
+      "zip" : 7040,
+      "city" : "Geiersberg",
+      "country" : "Heard und McDonaldinseln"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  } ],
+  "pairCourse" : true
+}, {
+  "id" : "677337f0-19de-4658-a391-e7bf2f21b243",
+  "createdAt" : {
+    "$date" : "2023-08-15T15:14:34.938278500Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-08-15T15:14:34.938278500Z"
+  },
+  "startsAt" : {
+    "$date" : "2023-08-16T16:14:34.938278500Z"
+  },
+  "endsAt" : {
+    "$date" : "2023-08-16T18:14:34.938278500Z"
+  },
+  "maxUsers" : 10,
+  "followerLeaderBalance" : 2,
+  "booked" : [ ],
+  "teachers" : [ ],
+  "address" : {
+    "street" : "Steingrüneredt 3",
+    "houseNumber" : 343,
+    "zip" : 3797,
+    "city" : "Gams bei Hieflau",
+    "country" : "Liechtenstein"
+  },
+  "courseType" : "LEVEL1",
+  "courseRequirement" : "LEVEL0",
+  "courseStatus" : "OPEN",
+  "runTime" : 2,
+  "bookAbleAt" : {
+    "$date" : "2023-08-15T15:14:34.938278500Z"
+  },
+  "bookAbleTo" : {
+    "$date" : "2023-10-17T15:14:34.938278500Z"
+  },
+  "theme" : "Hamza",
+  "price" : 8.91,
+  "courseProgramm" : {
+    "programm" : "1u2ui6j0nh9569zh4fid32eefdbrzdfnvihll74d0ars5nl1poiq5htaadogk9iyizf168fwjodl9i272i76vagtxdvyb195dpgjvve6rru5crpwcfkmb6lxg04t7chisena2xjlpjv3fxm9m2yenlmdu7u0qnlz8cd789d2wo8zu6extox5siylnwyrv6p28euht6gyhv0npg3bz"
+  },
+  "courseDescription" : {
+    "description" : "xv2v91whovdt9hd9xxhr47iro04gbpzml912gl0m74535mu3jygx67il0xj2t92mdf1kdtjpch85xcruf5uccwa4nsqyxxjlfkq9uxmcfu0vmedyqpjz8ssoqtkrr43mhhcg2h4mjcehy6jds3fgxu4dd1rm7il5rlq"
+  },
+  "events" : [ {
+    "id" : "b89176ac-e642-4014-99a6-a084a5382372",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-16T16:14:34.938278500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-16T18:14:34.938278500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Steingrüneredt 3",
+      "houseNumber" : 343,
+      "zip" : 3797,
+      "city" : "Gams bei Hieflau",
+      "country" : "Liechtenstein"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "672708e4-e011-4e5a-ac7a-e0e591930d6d",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-23T16:14:34.938278500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-23T18:14:34.938278500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Steingrüneredt 3",
+      "houseNumber" : 343,
+      "zip" : 3797,
+      "city" : "Gams bei Hieflau",
+      "country" : "Liechtenstein"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  } ],
+  "pairCourse" : true
+}, {
+  "id" : "7df26fcc-900d-4db5-8117-1b18a5e7197a",
+  "createdAt" : {
+    "$date" : "2023-08-15T15:14:34.938278500Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-08-15T15:14:34.938278500Z"
+  },
+  "startsAt" : {
+    "$date" : "2023-08-16T16:14:34.938278500Z"
+  },
+  "endsAt" : {
+    "$date" : "2023-08-16T18:14:34.938278500Z"
+  },
+  "maxUsers" : 10,
+  "followerLeaderBalance" : 2,
+  "booked" : [ ],
+  "teachers" : [ ],
+  "address" : {
+    "street" : "Dr.-Oberreiter-Straße 08c",
+    "houseNumber" : 58,
+    "zip" : 5045,
+    "city" : "Gößnitz",
+    "country" : "Vereinigtes Königreich"
+  },
+  "courseType" : "LEVEL1",
+  "courseRequirement" : "LEVEL0",
+  "courseStatus" : "OPEN",
+  "runTime" : 9,
+  "bookAbleAt" : {
+    "$date" : "2023-08-15T15:14:34.938278500Z"
+  },
+  "bookAbleTo" : {
+    "$date" : "2023-10-17T15:14:34.938278500Z"
+  },
+  "theme" : "Kimi",
+  "price" : 90.2,
+  "courseProgramm" : {
+    "programm" : "0l20w0t9lg3z7i7n7d0w2aa0avwyng"
+  },
+  "courseDescription" : {
+    "description" : "b0uyct9b06iy3div38n4yrdplkragyo2jvdmpijbkqeu3po88zc6klybg8dp2z4eriavhjsgg7pbtlz0me5qi"
+  },
+  "events" : [ {
+    "id" : "7d3e0735-8531-4088-858a-28926872174c",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-16T16:14:34.938278500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-16T18:14:34.938278500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "300ddf41-1b9d-4d59-b5f5-7428375c30c7",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-23T16:14:34.938278500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-23T18:14:34.938278500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "aeee8a0b-fc0b-4eb9-b39c-57726671b63b",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-30T16:14:34.938278500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-30T18:14:34.938278500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "94827d34-05de-464a-8889-bbd6b8e801ae",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-06T16:14:34.938278500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-06T18:14:34.938278500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "4fc7d12d-33b0-41de-bd97-2b0d96ecf051",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-13T16:14:34.938278500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-13T18:14:34.938278500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "4450153d-0851-43ef-a613-93f05f98cb35",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-20T16:14:34.938278500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-20T18:14:34.938278500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "23791669-219f-48ac-81ba-11eea8ee1d51",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-27T16:14:34.938278500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-27T18:14:34.938278500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "2ba337c7-d041-46ea-8011-f22ec0a1b42b",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-10-04T16:14:34.938278500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-10-04T18:14:34.938278500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "aa4db004-244d-4735-af7d-aaad785cc765",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:34.938278500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-10-11T16:14:34.938278500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-10-11T18:14:34.938278500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL1",
+    "courseRequirement" : "LEVEL0",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  } ],
+  "pairCourse" : true
+}, {
+  "id" : "26dd9c72-4e4e-49f1-a4f2-afa75edc0c93",
+  "createdAt" : {
+    "$date" : "2023-08-15T15:14:34.938278500Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-08-15T15:14:34.938278500Z"
+  },
+  "startsAt" : {
+    "$date" : "2023-08-16T16:14:35.004609400Z"
+  },
+  "endsAt" : {
+    "$date" : "2023-08-16T18:14:35.005786Z"
+  },
+  "maxUsers" : 10,
+  "followerLeaderBalance" : 2,
+  "booked" : [ ],
+  "teachers" : [ ],
+  "address" : {
+    "street" : "Kerpelystraße 5",
+    "houseNumber" : 472,
+    "zip" : 9115,
+    "city" : "Preitenegg",
+    "country" : "Demokratische Republik Kongo"
+  },
+  "courseType" : "LEVEL2",
+  "courseRequirement" : "LEVEL1",
+  "courseStatus" : "OPEN",
+  "runTime" : 8,
+  "bookAbleAt" : {
+    "$date" : "2023-08-15T15:14:34.938278500Z"
+  },
+  "bookAbleTo" : {
+    "$date" : "2023-09-26T15:14:34.938278500Z"
+  },
+  "theme" : "Annabelle",
+  "price" : 72.75,
+  "courseProgramm" : {
+    "programm" : "cklmxugmyh1kuby8u0nne06r90xj0bjxwyxfkob8hdgh5xqlvx81ld1025abb30p43bj038n5ouum1d0bv8w72g2isuaz4i1p7bi9jn7uf7npvbe11go0uw215suax5mq1gku4o1symo5kwmi80l8pfusfq4k6tyj9ntpqe00x0lkac59kzjmw65mvwonn6kg93t0hbolzk"
+  },
+  "courseDescription" : {
+    "description" : "8vba641d71y0j0fyll4p"
+  },
+  "events" : [ {
+    "id" : "78b63d22-57de-4210-bda0-810d1067b4b2",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.005786Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.005786Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-16T16:14:35.004609400Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-16T18:14:35.005786Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "5dfc8b05-fda4-44ee-a51e-35d03e1e1352",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.005786Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.005786Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-23T16:14:35.004609400Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-23T18:14:35.005786Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "7a181bfb-77b6-402a-a8ce-a48139530709",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.005786Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.005786Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-30T16:14:35.004609400Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-30T18:14:35.005786Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "e78d1d96-3604-4749-84ce-9895131ed98a",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.005786Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.005786Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-06T16:14:35.004609400Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-06T18:14:35.005786Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "9591ddec-9dc8-441b-ba3a-fa36859017bb",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.005786Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.005786Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-13T16:14:35.004609400Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-13T18:14:35.005786Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "3ff5bbe0-854e-4523-85b3-b39852e05b7e",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.005786Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.005786Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-20T16:14:35.004609400Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-20T18:14:35.005786Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "56d4c1fc-cccb-4673-bd1d-c8945b0c254f",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.005786Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.005786Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-27T16:14:35.004609400Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-27T18:14:35.005786Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "c1e9f48a-9ff8-46d9-a224-d2201118a126",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.005786Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.005786Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-10-04T16:14:35.004609400Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-10-04T18:14:35.005786Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  } ],
+  "pairCourse" : true
+}, {
+  "id" : "050e87d5-5b22-4c4e-ba7b-1a2856359620",
+  "createdAt" : {
+    "$date" : "2023-08-15T15:14:35.005786Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-08-15T15:14:35.005786Z"
+  },
+  "startsAt" : {
+    "$date" : "2023-08-16T16:14:35.007119500Z"
+  },
+  "endsAt" : {
+    "$date" : "2023-08-16T18:14:35.007119500Z"
+  },
+  "maxUsers" : 10,
+  "followerLeaderBalance" : 2,
+  "booked" : [ ],
+  "teachers" : [ ],
+  "address" : {
+    "street" : "Paul Peters-Gasse 81b",
+    "houseNumber" : 138,
+    "zip" : 1825,
+    "city" : "Innsbruck",
+    "country" : "Uruguay"
+  },
+  "courseType" : "LEVEL2",
+  "courseRequirement" : "LEVEL1",
+  "courseStatus" : "OPEN",
+  "runTime" : 3,
+  "bookAbleAt" : {
+    "$date" : "2023-08-15T15:14:35.005786Z"
+  },
+  "bookAbleTo" : {
+    "$date" : "2023-09-12T15:14:35.005786Z"
+  },
+  "theme" : "Corvin",
+  "price" : 60.51,
+  "courseProgramm" : {
+    "programm" : "hwfe3m0udbzfym5uaqx8j4nsekwmqv1diqyaow8j6jzrmh2fv9wliv3gre5pcdzhwnnlysi7dgm6gr"
+  },
+  "courseDescription" : {
+    "description" : "5zf4xhr0m9cjgbyr3o06kqdv3a447dja9e0ox6hehqiewip0w7eohrlmv5uhqn76xg8fgrg8bzcusxvb40afw55c799qk"
+  },
+  "events" : [ {
+    "id" : "70b785c2-4046-4f69-9a03-2b77b3e6d613",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.007119500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.007119500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-16T16:14:35.007119500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-16T18:14:35.007119500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Paul Peters-Gasse 81b",
+      "houseNumber" : 138,
+      "zip" : 1825,
+      "city" : "Innsbruck",
+      "country" : "Uruguay"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "882ca38e-21cc-4a77-9645-185002c7f2f0",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.007119500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.007119500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-23T16:14:35.007119500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-23T18:14:35.007119500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Paul Peters-Gasse 81b",
+      "houseNumber" : 138,
+      "zip" : 1825,
+      "city" : "Innsbruck",
+      "country" : "Uruguay"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "be3e2a4e-f91b-4a4a-8a73-6871ad1b8727",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.007119500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.007119500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-30T16:14:35.007119500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-30T18:14:35.007119500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Paul Peters-Gasse 81b",
+      "houseNumber" : 138,
+      "zip" : 1825,
+      "city" : "Innsbruck",
+      "country" : "Uruguay"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  } ],
+  "pairCourse" : true
+}, {
+  "id" : "cbe342d7-2a64-48b1-9bd9-138bf13dbbf5",
+  "createdAt" : {
+    "$date" : "2023-08-15T15:14:35.007119500Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-08-15T15:14:35.007119500Z"
+  },
+  "startsAt" : {
+    "$date" : "2023-08-16T16:14:35.007119500Z"
+  },
+  "endsAt" : {
+    "$date" : "2023-08-16T18:14:35.007119500Z"
+  },
+  "maxUsers" : 10,
+  "followerLeaderBalance" : 2,
+  "booked" : [ ],
+  "teachers" : [ ],
+  "address" : {
+    "street" : "Straßerau 05",
+    "houseNumber" : 556,
+    "zip" : 7040,
+    "city" : "Geiersberg",
+    "country" : "Heard und McDonaldinseln"
+  },
+  "courseType" : "LEVEL2",
+  "courseRequirement" : "LEVEL1",
+  "courseStatus" : "OPEN",
+  "runTime" : 5,
+  "bookAbleAt" : {
+    "$date" : "2023-08-15T15:14:35.007119500Z"
+  },
+  "bookAbleTo" : {
+    "$date" : "2023-10-03T15:14:35.007119500Z"
+  },
+  "theme" : "Alana",
+  "price" : 6.88,
+  "courseProgramm" : {
+    "programm" : "v6s78q4h2"
+  },
+  "courseDescription" : {
+    "description" : "u9nqh8knk87orkwnz1oavalaq19"
+  },
+  "events" : [ {
+    "id" : "0ece2017-942b-4745-8e9f-9e99698223ad",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-16T16:14:35.007119500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-16T18:14:35.007119500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Straßerau 05",
+      "houseNumber" : 556,
+      "zip" : 7040,
+      "city" : "Geiersberg",
+      "country" : "Heard und McDonaldinseln"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "b72bdc9a-bfe2-48c3-bedf-be8b44f6ff93",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-23T16:14:35.007119500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-23T18:14:35.007119500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Straßerau 05",
+      "houseNumber" : 556,
+      "zip" : 7040,
+      "city" : "Geiersberg",
+      "country" : "Heard und McDonaldinseln"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "61fa8c53-7f01-48dc-af18-7b0d98c89204",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-30T16:14:35.007119500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-30T18:14:35.007119500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Straßerau 05",
+      "houseNumber" : 556,
+      "zip" : 7040,
+      "city" : "Geiersberg",
+      "country" : "Heard und McDonaldinseln"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "87865c41-a62f-457b-be25-805744c70700",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-06T16:14:35.007119500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-06T18:14:35.007119500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Straßerau 05",
+      "houseNumber" : 556,
+      "zip" : 7040,
+      "city" : "Geiersberg",
+      "country" : "Heard und McDonaldinseln"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "6ea42594-8e88-4a1b-8322-84674c4d0538",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-13T16:14:35.007119500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-13T18:14:35.007119500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Straßerau 05",
+      "houseNumber" : 556,
+      "zip" : 7040,
+      "city" : "Geiersberg",
+      "country" : "Heard und McDonaldinseln"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  } ],
+  "pairCourse" : true
+}, {
+  "id" : "6ab522c9-3361-437a-a0ea-7fd5d7ad2662",
+  "createdAt" : {
+    "$date" : "2023-08-15T15:14:35.008130200Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-08-15T15:14:35.008130200Z"
+  },
+  "startsAt" : {
+    "$date" : "2023-08-16T16:14:35.008130200Z"
+  },
+  "endsAt" : {
+    "$date" : "2023-08-16T18:14:35.008130200Z"
+  },
+  "maxUsers" : 10,
+  "followerLeaderBalance" : 2,
+  "booked" : [ ],
+  "teachers" : [ ],
+  "address" : {
+    "street" : "Steingrüneredt 3",
+    "houseNumber" : 343,
+    "zip" : 3797,
+    "city" : "Gams bei Hieflau",
+    "country" : "Liechtenstein"
+  },
+  "courseType" : "LEVEL2",
+  "courseRequirement" : "LEVEL1",
+  "courseStatus" : "OPEN",
+  "runTime" : 2,
+  "bookAbleAt" : {
+    "$date" : "2023-08-15T15:14:35.008130200Z"
+  },
+  "bookAbleTo" : {
+    "$date" : "2023-10-17T15:14:35.008130200Z"
+  },
+  "theme" : "Hamza",
+  "price" : 8.91,
+  "courseProgramm" : {
+    "programm" : "1u2ui6j0nh9569zh4fid32eefdbrzdfnvihll74d0ars5nl1poiq5htaadogk9iyizf168fwjodl9i272i76vagtxdvyb195dpgjvve6rru5crpwcfkmb6lxg04t7chisena2xjlpjv3fxm9m2yenlmdu7u0qnlz8cd789d2wo8zu6extox5siylnwyrv6p28euht6gyhv0npg3bz"
+  },
+  "courseDescription" : {
+    "description" : "xv2v91whovdt9hd9xxhr47iro04gbpzml912gl0m74535mu3jygx67il0xj2t92mdf1kdtjpch85xcruf5uccwa4nsqyxxjlfkq9uxmcfu0vmedyqpjz8ssoqtkrr43mhhcg2h4mjcehy6jds3fgxu4dd1rm7il5rlq"
+  },
+  "events" : [ {
+    "id" : "0b366b3b-174b-4c62-83f4-03863cdee057",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-16T16:14:35.008130200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-16T18:14:35.008130200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Steingrüneredt 3",
+      "houseNumber" : 343,
+      "zip" : 3797,
+      "city" : "Gams bei Hieflau",
+      "country" : "Liechtenstein"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "8e46a488-4408-4876-8b08-b432fd50352b",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-23T16:14:35.008130200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-23T18:14:35.008130200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Steingrüneredt 3",
+      "houseNumber" : 343,
+      "zip" : 3797,
+      "city" : "Gams bei Hieflau",
+      "country" : "Liechtenstein"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  } ],
+  "pairCourse" : true
+}, {
+  "id" : "57ef0f20-daff-40f6-81d7-f19ffd92169c",
+  "createdAt" : {
+    "$date" : "2023-08-15T15:14:35.008130200Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-08-15T15:14:35.008130200Z"
+  },
+  "startsAt" : {
+    "$date" : "2023-08-16T16:14:35.008130200Z"
+  },
+  "endsAt" : {
+    "$date" : "2023-08-16T18:14:35.008130200Z"
+  },
+  "maxUsers" : 10,
+  "followerLeaderBalance" : 2,
+  "booked" : [ ],
+  "teachers" : [ ],
+  "address" : {
+    "street" : "Dr.-Oberreiter-Straße 08c",
+    "houseNumber" : 58,
+    "zip" : 5045,
+    "city" : "Gößnitz",
+    "country" : "Vereinigtes Königreich"
+  },
+  "courseType" : "LEVEL2",
+  "courseRequirement" : "LEVEL1",
+  "courseStatus" : "OPEN",
+  "runTime" : 9,
+  "bookAbleAt" : {
+    "$date" : "2023-08-15T15:14:35.008130200Z"
+  },
+  "bookAbleTo" : {
+    "$date" : "2023-10-17T15:14:35.008130200Z"
+  },
+  "theme" : "Kimi",
+  "price" : 90.2,
+  "courseProgramm" : {
+    "programm" : "0l20w0t9lg3z7i7n7d0w2aa0avwyng"
+  },
+  "courseDescription" : {
+    "description" : "b0uyct9b06iy3div38n4yrdplkragyo2jvdmpijbkqeu3po88zc6klybg8dp2z4eriavhjsgg7pbtlz0me5qi"
+  },
+  "events" : [ {
+    "id" : "fab4414f-6deb-4b17-ab74-4be01a0f29c7",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-16T16:14:35.008130200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-16T18:14:35.008130200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "13848f3a-5de9-4209-84bb-2545b2f27e6e",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-23T16:14:35.008130200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-23T18:14:35.008130200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "15a815b4-35fb-4ebf-9b6f-d213198690a5",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-30T16:14:35.008130200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-30T18:14:35.008130200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "a9a64c43-f670-4d1a-8102-464e391c9970",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-06T16:14:35.008130200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-06T18:14:35.008130200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "d2264339-817a-4ec3-844c-28c49f650d47",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-13T16:14:35.008130200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-13T18:14:35.008130200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "474359eb-bbb5-4946-be4f-14bbf4f156cc",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-20T16:14:35.008130200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-20T18:14:35.008130200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "fdf7e3db-539e-4700-a3ca-22af082825e6",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-27T16:14:35.008130200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-27T18:14:35.008130200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "6819c312-1c94-431f-9884-439dbb12af16",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-10-04T16:14:35.008130200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-10-04T18:14:35.008130200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "4ba28fb3-e35a-461f-aa83-4d9cbd889eeb",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.008130200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-10-11T16:14:35.008130200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-10-11T18:14:35.008130200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL2",
+    "courseRequirement" : "LEVEL1",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  } ],
+  "pairCourse" : true
+}, {
+  "id" : "53ce4e24-fb8d-49f4-a48a-0864176cd042",
+  "createdAt" : {
+    "$date" : "2023-08-15T15:14:35.010945900Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-08-15T15:14:35.010945900Z"
+  },
+  "startsAt" : {
+    "$date" : "2023-08-16T16:14:35.070815900Z"
+  },
+  "endsAt" : {
+    "$date" : "2023-08-16T18:14:35.070815900Z"
+  },
+  "maxUsers" : 10,
+  "followerLeaderBalance" : 2,
+  "booked" : [ ],
+  "teachers" : [ ],
+  "address" : {
+    "street" : "Kerpelystraße 5",
+    "houseNumber" : 472,
+    "zip" : 9115,
+    "city" : "Preitenegg",
+    "country" : "Demokratische Republik Kongo"
+  },
+  "courseType" : "LEVEL3",
+  "courseRequirement" : "LEVEL2",
+  "courseStatus" : "OPEN",
+  "runTime" : 8,
+  "bookAbleAt" : {
+    "$date" : "2023-08-15T15:14:35.010945900Z"
+  },
+  "bookAbleTo" : {
+    "$date" : "2023-09-26T15:14:35.010945900Z"
+  },
+  "theme" : "Annabelle",
+  "price" : 72.75,
+  "courseProgramm" : {
+    "programm" : "cklmxugmyh1kuby8u0nne06r90xj0bjxwyxfkob8hdgh5xqlvx81ld1025abb30p43bj038n5ouum1d0bv8w72g2isuaz4i1p7bi9jn7uf7npvbe11go0uw215suax5mq1gku4o1symo5kwmi80l8pfusfq4k6tyj9ntpqe00x0lkac59kzjmw65mvwonn6kg93t0hbolzk"
+  },
+  "courseDescription" : {
+    "description" : "8vba641d71y0j0fyll4p"
+  },
+  "events" : [ {
+    "id" : "50765570-a55d-41c0-ae63-741514b1e4c3",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.070815900Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.070815900Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-16T16:14:35.070815900Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-16T18:14:35.070815900Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "c406c176-216b-4d1c-8d9c-780a1dbf318f",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.070815900Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.070815900Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-23T16:14:35.070815900Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-23T18:14:35.070815900Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "1ff21310-9dc2-4d53-80f8-8d7e825669b0",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.070815900Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.070815900Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-30T16:14:35.070815900Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-30T18:14:35.070815900Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "b44a1a02-ccd6-4b72-96dc-95274f972467",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.070815900Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.070815900Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-06T16:14:35.070815900Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-06T18:14:35.070815900Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "c0fcd67f-02f3-492a-93f0-c3de6afa3bd6",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.070815900Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.070815900Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-13T16:14:35.070815900Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-13T18:14:35.070815900Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "98d085db-b295-46bf-a003-af1f63d66815",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.070815900Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.070815900Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-20T16:14:35.070815900Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-20T18:14:35.070815900Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "9b80ea33-f36c-4419-a902-94ab06c39eb9",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.070815900Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.070815900Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-27T16:14:35.070815900Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-27T18:14:35.070815900Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "7da15467-4160-4fab-a93c-381ee0f3a2c8",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.070815900Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.070815900Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-10-04T16:14:35.070815900Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-10-04T18:14:35.070815900Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  } ],
+  "pairCourse" : true
+}, {
+  "id" : "41177e29-ce6c-4aa7-80d8-83be68e159ad",
+  "createdAt" : {
+    "$date" : "2023-08-15T15:14:35.070815900Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-08-15T15:14:35.070815900Z"
+  },
+  "startsAt" : {
+    "$date" : "2023-08-16T16:14:35.072420200Z"
+  },
+  "endsAt" : {
+    "$date" : "2023-08-16T18:14:35.072420200Z"
+  },
+  "maxUsers" : 10,
+  "followerLeaderBalance" : 2,
+  "booked" : [ ],
+  "teachers" : [ ],
+  "address" : {
+    "street" : "Paul Peters-Gasse 81b",
+    "houseNumber" : 138,
+    "zip" : 1825,
+    "city" : "Innsbruck",
+    "country" : "Uruguay"
+  },
+  "courseType" : "LEVEL3",
+  "courseRequirement" : "LEVEL2",
+  "courseStatus" : "OPEN",
+  "runTime" : 3,
+  "bookAbleAt" : {
+    "$date" : "2023-08-15T15:14:35.070815900Z"
+  },
+  "bookAbleTo" : {
+    "$date" : "2023-09-12T15:14:35.070815900Z"
+  },
+  "theme" : "Corvin",
+  "price" : 60.51,
+  "courseProgramm" : {
+    "programm" : "hwfe3m0udbzfym5uaqx8j4nsekwmqv1diqyaow8j6jzrmh2fv9wliv3gre5pcdzhwnnlysi7dgm6gr"
+  },
+  "courseDescription" : {
+    "description" : "5zf4xhr0m9cjgbyr3o06kqdv3a447dja9e0ox6hehqiewip0w7eohrlmv5uhqn76xg8fgrg8bzcusxvb40afw55c799qk"
+  },
+  "events" : [ {
+    "id" : "034205e1-1474-47ca-ad72-a3660b157772",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.072420200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.072420200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-16T16:14:35.072420200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-16T18:14:35.072420200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Paul Peters-Gasse 81b",
+      "houseNumber" : 138,
+      "zip" : 1825,
+      "city" : "Innsbruck",
+      "country" : "Uruguay"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "78c2762a-c21d-435d-9b9a-9cd09c59a464",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.072420200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.072420200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-23T16:14:35.072420200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-23T18:14:35.072420200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Paul Peters-Gasse 81b",
+      "houseNumber" : 138,
+      "zip" : 1825,
+      "city" : "Innsbruck",
+      "country" : "Uruguay"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "8ad2ecd5-5dd1-43b6-add1-b4b8f76986c2",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.072420200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.072420200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-30T16:14:35.072420200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-30T18:14:35.072420200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Paul Peters-Gasse 81b",
+      "houseNumber" : 138,
+      "zip" : 1825,
+      "city" : "Innsbruck",
+      "country" : "Uruguay"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  } ],
+  "pairCourse" : true
+}, {
+  "id" : "6f8d64d2-0a00-49a0-9087-526e3a758893",
+  "createdAt" : {
+    "$date" : "2023-08-15T15:14:35.072420200Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-08-15T15:14:35.072420200Z"
+  },
+  "startsAt" : {
+    "$date" : "2023-08-16T16:14:35.072420200Z"
+  },
+  "endsAt" : {
+    "$date" : "2023-08-16T18:14:35.072420200Z"
+  },
+  "maxUsers" : 10,
+  "followerLeaderBalance" : 2,
+  "booked" : [ ],
+  "teachers" : [ ],
+  "address" : {
+    "street" : "Straßerau 05",
+    "houseNumber" : 556,
+    "zip" : 7040,
+    "city" : "Geiersberg",
+    "country" : "Heard und McDonaldinseln"
+  },
+  "courseType" : "LEVEL3",
+  "courseRequirement" : "LEVEL2",
+  "courseStatus" : "OPEN",
+  "runTime" : 5,
+  "bookAbleAt" : {
+    "$date" : "2023-08-15T15:14:35.072420200Z"
+  },
+  "bookAbleTo" : {
+    "$date" : "2023-10-03T15:14:35.072420200Z"
+  },
+  "theme" : "Alana",
+  "price" : 6.88,
+  "courseProgramm" : {
+    "programm" : "v6s78q4h2"
+  },
+  "courseDescription" : {
+    "description" : "u9nqh8knk87orkwnz1oavalaq19"
+  },
+  "events" : [ {
+    "id" : "998f4637-5659-4976-a423-4c037f3e7c3d",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.072420200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.072420200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-16T16:14:35.072420200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-16T18:14:35.072420200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Straßerau 05",
+      "houseNumber" : 556,
+      "zip" : 7040,
+      "city" : "Geiersberg",
+      "country" : "Heard und McDonaldinseln"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "30730f83-a7c7-4889-a2ea-5d16cfdda584",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.072420200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.072420200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-23T16:14:35.072420200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-23T18:14:35.072420200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Straßerau 05",
+      "houseNumber" : 556,
+      "zip" : 7040,
+      "city" : "Geiersberg",
+      "country" : "Heard und McDonaldinseln"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "57db89e4-6153-4858-bf24-0c5a2dc811f9",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.072420200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.072420200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-30T16:14:35.072420200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-30T18:14:35.072420200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Straßerau 05",
+      "houseNumber" : 556,
+      "zip" : 7040,
+      "city" : "Geiersberg",
+      "country" : "Heard und McDonaldinseln"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "9d6fb3cf-14d4-4bf0-a0cc-6dbfd5ef5057",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.072420200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.072420200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-06T16:14:35.072420200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-06T18:14:35.072420200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Straßerau 05",
+      "houseNumber" : 556,
+      "zip" : 7040,
+      "city" : "Geiersberg",
+      "country" : "Heard und McDonaldinseln"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "08a5a3f2-d5b0-4547-9dfa-a9f4ea3634df",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.072420200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.072420200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-13T16:14:35.072420200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-13T18:14:35.072420200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Straßerau 05",
+      "houseNumber" : 556,
+      "zip" : 7040,
+      "city" : "Geiersberg",
+      "country" : "Heard und McDonaldinseln"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  } ],
+  "pairCourse" : true
+}, {
+  "id" : "c55873e8-36e1-4abe-8f74-fc724f3362b5",
+  "createdAt" : {
+    "$date" : "2023-08-15T15:14:35.072420200Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-08-15T15:14:35.072420200Z"
+  },
+  "startsAt" : {
+    "$date" : "2023-08-16T16:14:35.072420200Z"
+  },
+  "endsAt" : {
+    "$date" : "2023-08-16T18:14:35.072420200Z"
+  },
+  "maxUsers" : 10,
+  "followerLeaderBalance" : 2,
+  "booked" : [ ],
+  "teachers" : [ ],
+  "address" : {
+    "street" : "Steingrüneredt 3",
+    "houseNumber" : 343,
+    "zip" : 3797,
+    "city" : "Gams bei Hieflau",
+    "country" : "Liechtenstein"
+  },
+  "courseType" : "LEVEL3",
+  "courseRequirement" : "LEVEL2",
+  "courseStatus" : "OPEN",
+  "runTime" : 2,
+  "bookAbleAt" : {
+    "$date" : "2023-08-15T15:14:35.072420200Z"
+  },
+  "bookAbleTo" : {
+    "$date" : "2023-10-17T15:14:35.072420200Z"
+  },
+  "theme" : "Hamza",
+  "price" : 8.91,
+  "courseProgramm" : {
+    "programm" : "1u2ui6j0nh9569zh4fid32eefdbrzdfnvihll74d0ars5nl1poiq5htaadogk9iyizf168fwjodl9i272i76vagtxdvyb195dpgjvve6rru5crpwcfkmb6lxg04t7chisena2xjlpjv3fxm9m2yenlmdu7u0qnlz8cd789d2wo8zu6extox5siylnwyrv6p28euht6gyhv0npg3bz"
+  },
+  "courseDescription" : {
+    "description" : "xv2v91whovdt9hd9xxhr47iro04gbpzml912gl0m74535mu3jygx67il0xj2t92mdf1kdtjpch85xcruf5uccwa4nsqyxxjlfkq9uxmcfu0vmedyqpjz8ssoqtkrr43mhhcg2h4mjcehy6jds3fgxu4dd1rm7il5rlq"
+  },
+  "events" : [ {
+    "id" : "628ac19c-4ac6-4113-8875-fb965540e428",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.072420200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.072420200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-16T16:14:35.072420200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-16T18:14:35.072420200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Steingrüneredt 3",
+      "houseNumber" : 343,
+      "zip" : 3797,
+      "city" : "Gams bei Hieflau",
+      "country" : "Liechtenstein"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "35ab1da3-1598-40d9-a4d8-c447e8bcfb89",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.072420200Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.072420200Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-23T16:14:35.072420200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-23T18:14:35.072420200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Steingrüneredt 3",
+      "houseNumber" : 343,
+      "zip" : 3797,
+      "city" : "Gams bei Hieflau",
+      "country" : "Liechtenstein"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  } ],
+  "pairCourse" : true
+}, {
+  "id" : "0db4ec37-a8dd-4d7a-868f-a89b2027b814",
+  "createdAt" : {
+    "$date" : "2023-08-15T15:14:35.072420200Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-08-15T15:14:35.072420200Z"
+  },
+  "startsAt" : {
+    "$date" : "2023-08-16T16:14:35.072420200Z"
+  },
+  "endsAt" : {
+    "$date" : "2023-08-16T18:14:35.072420200Z"
+  },
+  "maxUsers" : 10,
+  "followerLeaderBalance" : 2,
+  "booked" : [ ],
+  "teachers" : [ ],
+  "address" : {
+    "street" : "Dr.-Oberreiter-Straße 08c",
+    "houseNumber" : 58,
+    "zip" : 5045,
+    "city" : "Gößnitz",
+    "country" : "Vereinigtes Königreich"
+  },
+  "courseType" : "LEVEL3",
+  "courseRequirement" : "LEVEL2",
+  "courseStatus" : "OPEN",
+  "runTime" : 9,
+  "bookAbleAt" : {
+    "$date" : "2023-08-15T15:14:35.072420200Z"
+  },
+  "bookAbleTo" : {
+    "$date" : "2023-10-17T15:14:35.072420200Z"
+  },
+  "theme" : "Kimi",
+  "price" : 90.2,
+  "courseProgramm" : {
+    "programm" : "0l20w0t9lg3z7i7n7d0w2aa0avwyng"
+  },
+  "courseDescription" : {
+    "description" : "b0uyct9b06iy3div38n4yrdplkragyo2jvdmpijbkqeu3po88zc6klybg8dp2z4eriavhjsgg7pbtlz0me5qi"
+  },
+  "events" : [ {
+    "id" : "75380224-32fd-4d19-b28f-af7a598861d3",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.074904700Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.074904700Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-16T16:14:35.072420200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-16T18:14:35.072420200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "77056db1-cbd0-4ac7-a680-2d2594b482ca",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.074904700Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.074904700Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-23T16:14:35.072420200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-23T18:14:35.072420200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "821773df-b98e-461b-8d35-d56ab84ab2bf",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.074904700Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.074904700Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-30T16:14:35.072420200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-30T18:14:35.072420200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "a3fc1670-45d0-4e18-9ba0-f583d5d73cdc",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.074904700Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.074904700Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-06T16:14:35.072420200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-06T18:14:35.072420200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "617a4941-5017-4c38-b1a8-628af57b2143",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.074904700Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.074904700Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-13T16:14:35.072420200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-13T18:14:35.072420200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "e32759bb-2b18-4f6b-82e6-fd93ea13be49",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.074904700Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.074904700Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-20T16:14:35.072420200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-20T18:14:35.072420200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "9186757a-db5d-41cb-91cf-67918f34e541",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.074904700Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.074904700Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-27T16:14:35.072420200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-27T18:14:35.072420200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "85ca6c6c-b085-41e6-8b98-edcee79d00a0",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.074904700Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.074904700Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-10-04T16:14:35.072420200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-10-04T18:14:35.072420200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "59e1ccf0-aac8-4ffc-b2a0-9895ff6de28c",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.074904700Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.074904700Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-10-11T16:14:35.072420200Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-10-11T18:14:35.072420200Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL3",
+    "courseRequirement" : "LEVEL2",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  } ],
+  "pairCourse" : true
+}, {
+  "id" : "67f2ba5b-07ed-4e60-8ba5-d9b1be752c38",
+  "createdAt" : {
+    "$date" : "2023-08-15T15:14:35.076381600Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-08-15T15:14:35.076381600Z"
+  },
+  "startsAt" : {
+    "$date" : "2023-08-16T16:14:35.106764300Z"
+  },
+  "endsAt" : {
+    "$date" : "2023-08-16T18:14:35.106764300Z"
+  },
+  "maxUsers" : 10,
+  "followerLeaderBalance" : 2,
+  "booked" : [ ],
+  "teachers" : [ ],
+  "address" : {
+    "street" : "Kerpelystraße 5",
+    "houseNumber" : 472,
+    "zip" : 9115,
+    "city" : "Preitenegg",
+    "country" : "Demokratische Republik Kongo"
+  },
+  "courseType" : "LEVEL4",
+  "courseRequirement" : "LEVEL3",
+  "courseStatus" : "OPEN",
+  "runTime" : 8,
+  "bookAbleAt" : {
+    "$date" : "2023-08-15T15:14:35.076381600Z"
+  },
+  "bookAbleTo" : {
+    "$date" : "2023-09-26T15:14:35.076381600Z"
+  },
+  "theme" : "Annabelle",
+  "price" : 72.75,
+  "courseProgramm" : {
+    "programm" : "cklmxugmyh1kuby8u0nne06r90xj0bjxwyxfkob8hdgh5xqlvx81ld1025abb30p43bj038n5ouum1d0bv8w72g2isuaz4i1p7bi9jn7uf7npvbe11go0uw215suax5mq1gku4o1symo5kwmi80l8pfusfq4k6tyj9ntpqe00x0lkac59kzjmw65mvwonn6kg93t0hbolzk"
+  },
+  "courseDescription" : {
+    "description" : "8vba641d71y0j0fyll4p"
+  },
+  "events" : [ {
+    "id" : "4adb7b50-f988-43cd-b836-b6f28466e5ab",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.110261600Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.110261600Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-16T16:14:35.106764300Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-16T18:14:35.106764300Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "54ce5447-c5c3-4d79-90b1-7d930a69b36f",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.110261600Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.110261600Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-23T16:14:35.106764300Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-23T18:14:35.106764300Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "fd54f394-f537-4b3a-9e03-5272c3530522",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.110261600Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.110261600Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-30T16:14:35.106764300Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-30T18:14:35.106764300Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "22757a87-6cce-4a35-8787-e3c2b104321c",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.110261600Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.110261600Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-06T16:14:35.106764300Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-06T18:14:35.106764300Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "0fa09742-5e75-4f36-b2b0-232767eb8c90",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.110261600Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.110261600Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-13T16:14:35.106764300Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-13T18:14:35.106764300Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "1a0c9f93-b784-46e4-a138-8822a6a09c47",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.110261600Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.110261600Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-20T16:14:35.106764300Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-20T18:14:35.106764300Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "454fb034-fecd-404a-9faa-1a7966cf0e57",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.110261600Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.110261600Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-27T16:14:35.106764300Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-27T18:14:35.106764300Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "46e509d0-dd31-4720-87bd-e802da25a092",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.110261600Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.110261600Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-10-04T16:14:35.106764300Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-10-04T18:14:35.106764300Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  } ],
+  "pairCourse" : true
+}, {
+  "id" : "7ddf93be-c5d5-4726-a4b3-c97ae446d812",
+  "createdAt" : {
+    "$date" : "2023-08-15T15:14:35.110261600Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-08-15T15:14:35.110261600Z"
+  },
+  "startsAt" : {
+    "$date" : "2023-08-16T16:14:35.110261600Z"
+  },
+  "endsAt" : {
+    "$date" : "2023-08-16T18:14:35.110261600Z"
+  },
+  "maxUsers" : 10,
+  "followerLeaderBalance" : 2,
+  "booked" : [ ],
+  "teachers" : [ ],
+  "address" : {
+    "street" : "Paul Peters-Gasse 81b",
+    "houseNumber" : 138,
+    "zip" : 1825,
+    "city" : "Innsbruck",
+    "country" : "Uruguay"
+  },
+  "courseType" : "LEVEL4",
+  "courseRequirement" : "LEVEL3",
+  "courseStatus" : "OPEN",
+  "runTime" : 3,
+  "bookAbleAt" : {
+    "$date" : "2023-08-15T15:14:35.110261600Z"
+  },
+  "bookAbleTo" : {
+    "$date" : "2023-09-12T15:14:35.110261600Z"
+  },
+  "theme" : "Corvin",
+  "price" : 60.51,
+  "courseProgramm" : {
+    "programm" : "hwfe3m0udbzfym5uaqx8j4nsekwmqv1diqyaow8j6jzrmh2fv9wliv3gre5pcdzhwnnlysi7dgm6gr"
+  },
+  "courseDescription" : {
+    "description" : "5zf4xhr0m9cjgbyr3o06kqdv3a447dja9e0ox6hehqiewip0w7eohrlmv5uhqn76xg8fgrg8bzcusxvb40afw55c799qk"
+  },
+  "events" : [ {
+    "id" : "85f0572c-539f-4d0c-80b8-274580d801ed",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.110261600Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.110261600Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-16T16:14:35.110261600Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-16T18:14:35.110261600Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Paul Peters-Gasse 81b",
+      "houseNumber" : 138,
+      "zip" : 1825,
+      "city" : "Innsbruck",
+      "country" : "Uruguay"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "a0789d35-626c-4cbe-97e5-d57eaabb802e",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.110261600Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.110261600Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-23T16:14:35.110261600Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-23T18:14:35.110261600Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Paul Peters-Gasse 81b",
+      "houseNumber" : 138,
+      "zip" : 1825,
+      "city" : "Innsbruck",
+      "country" : "Uruguay"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "007b612c-f5b9-43b1-b804-68000135ae2c",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.110261600Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.110261600Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-30T16:14:35.110261600Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-30T18:14:35.110261600Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Paul Peters-Gasse 81b",
+      "houseNumber" : 138,
+      "zip" : 1825,
+      "city" : "Innsbruck",
+      "country" : "Uruguay"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  } ],
+  "pairCourse" : true
+}, {
+  "id" : "b364996a-e46a-48ba-a607-574c0fe99d91",
+  "createdAt" : {
+    "$date" : "2023-08-15T15:14:35.110261600Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-08-15T15:14:35.110261600Z"
+  },
+  "startsAt" : {
+    "$date" : "2023-08-16T16:14:35.110261600Z"
+  },
+  "endsAt" : {
+    "$date" : "2023-08-16T18:14:35.110261600Z"
+  },
+  "maxUsers" : 10,
+  "followerLeaderBalance" : 2,
+  "booked" : [ ],
+  "teachers" : [ ],
+  "address" : {
+    "street" : "Straßerau 05",
+    "houseNumber" : 556,
+    "zip" : 7040,
+    "city" : "Geiersberg",
+    "country" : "Heard und McDonaldinseln"
+  },
+  "courseType" : "LEVEL4",
+  "courseRequirement" : "LEVEL3",
+  "courseStatus" : "OPEN",
+  "runTime" : 5,
+  "bookAbleAt" : {
+    "$date" : "2023-08-15T15:14:35.110261600Z"
+  },
+  "bookAbleTo" : {
+    "$date" : "2023-10-03T15:14:35.110261600Z"
+  },
+  "theme" : "Alana",
+  "price" : 6.88,
+  "courseProgramm" : {
+    "programm" : "v6s78q4h2"
+  },
+  "courseDescription" : {
+    "description" : "u9nqh8knk87orkwnz1oavalaq19"
+  },
+  "events" : [ {
+    "id" : "3a11a43f-8f28-4043-bf9c-e9bdbd04359d",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-16T16:14:35.110261600Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-16T18:14:35.110261600Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Straßerau 05",
+      "houseNumber" : 556,
+      "zip" : 7040,
+      "city" : "Geiersberg",
+      "country" : "Heard und McDonaldinseln"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "535f0f41-911c-41fc-8714-de26115d88c8",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-23T16:14:35.110261600Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-23T18:14:35.110261600Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Straßerau 05",
+      "houseNumber" : 556,
+      "zip" : 7040,
+      "city" : "Geiersberg",
+      "country" : "Heard und McDonaldinseln"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "9c29a127-00a5-4963-92eb-b91ca89553a4",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-30T16:14:35.110261600Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-30T18:14:35.110261600Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Straßerau 05",
+      "houseNumber" : 556,
+      "zip" : 7040,
+      "city" : "Geiersberg",
+      "country" : "Heard und McDonaldinseln"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "83285401-13bf-4e4b-9b9e-7ca62feda37c",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-06T16:14:35.110261600Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-06T18:14:35.110261600Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Straßerau 05",
+      "houseNumber" : 556,
+      "zip" : 7040,
+      "city" : "Geiersberg",
+      "country" : "Heard und McDonaldinseln"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "6729212c-07d7-4ebf-8515-dc517d7f339e",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-13T16:14:35.110261600Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-13T18:14:35.110261600Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Straßerau 05",
+      "houseNumber" : 556,
+      "zip" : 7040,
+      "city" : "Geiersberg",
+      "country" : "Heard und McDonaldinseln"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  } ],
+  "pairCourse" : true
+}, {
+  "id" : "bb5a19cb-ec4c-4bf7-817b-916e04198d7c",
+  "createdAt" : {
+    "$date" : "2023-08-15T15:14:35.112627Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-08-15T15:14:35.112627Z"
+  },
+  "startsAt" : {
+    "$date" : "2023-08-16T16:14:35.112627Z"
+  },
+  "endsAt" : {
+    "$date" : "2023-08-16T18:14:35.112627Z"
+  },
+  "maxUsers" : 10,
+  "followerLeaderBalance" : 2,
+  "booked" : [ ],
+  "teachers" : [ ],
+  "address" : {
+    "street" : "Steingrüneredt 3",
+    "houseNumber" : 343,
+    "zip" : 3797,
+    "city" : "Gams bei Hieflau",
+    "country" : "Liechtenstein"
+  },
+  "courseType" : "LEVEL4",
+  "courseRequirement" : "LEVEL3",
+  "courseStatus" : "OPEN",
+  "runTime" : 2,
+  "bookAbleAt" : {
+    "$date" : "2023-08-15T15:14:35.112627Z"
+  },
+  "bookAbleTo" : {
+    "$date" : "2023-10-17T15:14:35.112627Z"
+  },
+  "theme" : "Hamza",
+  "price" : 8.91,
+  "courseProgramm" : {
+    "programm" : "1u2ui6j0nh9569zh4fid32eefdbrzdfnvihll74d0ars5nl1poiq5htaadogk9iyizf168fwjodl9i272i76vagtxdvyb195dpgjvve6rru5crpwcfkmb6lxg04t7chisena2xjlpjv3fxm9m2yenlmdu7u0qnlz8cd789d2wo8zu6extox5siylnwyrv6p28euht6gyhv0npg3bz"
+  },
+  "courseDescription" : {
+    "description" : "xv2v91whovdt9hd9xxhr47iro04gbpzml912gl0m74535mu3jygx67il0xj2t92mdf1kdtjpch85xcruf5uccwa4nsqyxxjlfkq9uxmcfu0vmedyqpjz8ssoqtkrr43mhhcg2h4mjcehy6jds3fgxu4dd1rm7il5rlq"
+  },
+  "events" : [ {
+    "id" : "1ae45920-2f57-4537-b80c-bffbaa865abf",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-16T16:14:35.112627Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-16T18:14:35.112627Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Steingrüneredt 3",
+      "houseNumber" : 343,
+      "zip" : 3797,
+      "city" : "Gams bei Hieflau",
+      "country" : "Liechtenstein"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "327da421-402a-49d2-b007-1d7808761ccf",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-23T16:14:35.112627Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-23T18:14:35.112627Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Steingrüneredt 3",
+      "houseNumber" : 343,
+      "zip" : 3797,
+      "city" : "Gams bei Hieflau",
+      "country" : "Liechtenstein"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  } ],
+  "pairCourse" : true
+}, {
+  "id" : "38f285b5-90d0-475e-b68a-a172233fd303",
+  "createdAt" : {
+    "$date" : "2023-08-15T15:14:35.112627Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-08-15T15:14:35.112627Z"
+  },
+  "startsAt" : {
+    "$date" : "2023-08-16T16:14:35.112627Z"
+  },
+  "endsAt" : {
+    "$date" : "2023-08-16T18:14:35.112627Z"
+  },
+  "maxUsers" : 10,
+  "followerLeaderBalance" : 2,
+  "booked" : [ ],
+  "teachers" : [ ],
+  "address" : {
+    "street" : "Dr.-Oberreiter-Straße 08c",
+    "houseNumber" : 58,
+    "zip" : 5045,
+    "city" : "Gößnitz",
+    "country" : "Vereinigtes Königreich"
+  },
+  "courseType" : "LEVEL4",
+  "courseRequirement" : "LEVEL3",
+  "courseStatus" : "OPEN",
+  "runTime" : 9,
+  "bookAbleAt" : {
+    "$date" : "2023-08-15T15:14:35.112627Z"
+  },
+  "bookAbleTo" : {
+    "$date" : "2023-10-17T15:14:35.112627Z"
+  },
+  "theme" : "Kimi",
+  "price" : 90.2,
+  "courseProgramm" : {
+    "programm" : "0l20w0t9lg3z7i7n7d0w2aa0avwyng"
+  },
+  "courseDescription" : {
+    "description" : "b0uyct9b06iy3div38n4yrdplkragyo2jvdmpijbkqeu3po88zc6klybg8dp2z4eriavhjsgg7pbtlz0me5qi"
+  },
+  "events" : [ {
+    "id" : "71512401-7ce3-48a6-a2b4-c850a47f5f3d",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-16T16:14:35.112627Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-16T18:14:35.112627Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "2e8c7c1a-47fd-4a74-9229-e35db5a7f257",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-23T16:14:35.112627Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-23T18:14:35.112627Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "dd35a7f3-5c8b-477d-9cc9-121b336b6d01",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-30T16:14:35.112627Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-30T18:14:35.112627Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "741dbdea-c30b-48e7-94d2-9ee36a9e7048",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-06T16:14:35.112627Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-06T18:14:35.112627Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "75c24730-ed4e-4baf-8765-990ada412ad2",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-13T16:14:35.112627Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-13T18:14:35.112627Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "7fb39a0f-88ad-420c-89e7-a7fbc68f9ae9",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-20T16:14:35.112627Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-20T18:14:35.112627Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "4e5c6ec1-2c8f-4b99-a130-2a40fc281df8",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-27T16:14:35.112627Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-27T18:14:35.112627Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "59bd39cb-f75f-4487-9117-44d6888bae27",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.112627Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-10-04T16:14:35.112627Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-10-04T18:14:35.112627Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "778e5af6-7850-45e3-ac14-44e471594d74",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.113738Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.113738Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-10-11T16:14:35.112627Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-10-11T18:14:35.112627Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL4",
+    "courseRequirement" : "LEVEL3",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  } ],
+  "pairCourse" : true
+}, {
+  "id" : "f665c3c7-17f2-4935-9e32-51dc3e5d2151",
+  "createdAt" : {
+    "$date" : "2023-08-15T15:14:35.113738Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-08-15T15:14:35.113738Z"
+  },
+  "startsAt" : {
+    "$date" : "2023-08-16T16:14:35.141730500Z"
+  },
+  "endsAt" : {
+    "$date" : "2023-08-16T18:14:35.141730500Z"
+  },
+  "maxUsers" : 10,
+  "followerLeaderBalance" : 2,
+  "booked" : [ ],
+  "teachers" : [ ],
+  "address" : {
+    "street" : "Kerpelystraße 5",
+    "houseNumber" : 472,
+    "zip" : 9115,
+    "city" : "Preitenegg",
+    "country" : "Demokratische Republik Kongo"
+  },
+  "courseType" : "LEVEL5",
+  "courseRequirement" : "LEVEL4",
+  "courseStatus" : "OPEN",
+  "runTime" : 8,
+  "bookAbleAt" : {
+    "$date" : "2023-08-15T15:14:35.113738Z"
+  },
+  "bookAbleTo" : {
+    "$date" : "2023-09-26T15:14:35.113738Z"
+  },
+  "theme" : "Annabelle",
+  "price" : 72.75,
+  "courseProgramm" : {
+    "programm" : "cklmxugmyh1kuby8u0nne06r90xj0bjxwyxfkob8hdgh5xqlvx81ld1025abb30p43bj038n5ouum1d0bv8w72g2isuaz4i1p7bi9jn7uf7npvbe11go0uw215suax5mq1gku4o1symo5kwmi80l8pfusfq4k6tyj9ntpqe00x0lkac59kzjmw65mvwonn6kg93t0hbolzk"
+  },
+  "courseDescription" : {
+    "description" : "8vba641d71y0j0fyll4p"
+  },
+  "events" : [ {
+    "id" : "870c98c4-0e8f-4bdf-9774-4bfd2254996b",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.141730500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.141730500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-16T16:14:35.141730500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-16T18:14:35.141730500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "610f6b32-aa93-4c12-b535-4b1c05ffe968",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.141730500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.141730500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-23T16:14:35.141730500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-23T18:14:35.141730500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "94e5ea4a-ece7-4b0d-8dae-c2470939d0df",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.141730500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.141730500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-30T16:14:35.141730500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-30T18:14:35.141730500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "8bab8e78-5535-404c-8c2b-82ad627c1583",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.141730500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.141730500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-06T16:14:35.141730500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-06T18:14:35.141730500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "92803b33-ef76-4c43-8eea-f22a1f3817db",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.141730500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.141730500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-13T16:14:35.141730500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-13T18:14:35.141730500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "4e78b176-ff2a-4e5b-a7db-738f48110e06",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.141730500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.141730500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-20T16:14:35.141730500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-20T18:14:35.141730500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "ef6b0549-dc36-40b0-b7be-43f6a6f16143",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.141730500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.141730500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-27T16:14:35.141730500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-27T18:14:35.141730500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "e6993e41-526b-4ecb-a9f1-9c1920ac2f18",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.141730500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.141730500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-10-04T16:14:35.141730500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-10-04T18:14:35.141730500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Kerpelystraße 5",
+      "houseNumber" : 472,
+      "zip" : 9115,
+      "city" : "Preitenegg",
+      "country" : "Demokratische Republik Kongo"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  } ],
+  "pairCourse" : true
+}, {
+  "id" : "e1cb2157-df4b-48f7-9cb6-9d0a4ca89bc4",
+  "createdAt" : {
+    "$date" : "2023-08-15T15:14:35.141730500Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-08-15T15:14:35.141730500Z"
+  },
+  "startsAt" : {
+    "$date" : "2023-08-16T16:14:35.141730500Z"
+  },
+  "endsAt" : {
+    "$date" : "2023-08-16T18:14:35.141730500Z"
+  },
+  "maxUsers" : 10,
+  "followerLeaderBalance" : 2,
+  "booked" : [ ],
+  "teachers" : [ ],
+  "address" : {
+    "street" : "Paul Peters-Gasse 81b",
+    "houseNumber" : 138,
+    "zip" : 1825,
+    "city" : "Innsbruck",
+    "country" : "Uruguay"
+  },
+  "courseType" : "LEVEL5",
+  "courseRequirement" : "LEVEL4",
+  "courseStatus" : "OPEN",
+  "runTime" : 3,
+  "bookAbleAt" : {
+    "$date" : "2023-08-15T15:14:35.141730500Z"
+  },
+  "bookAbleTo" : {
+    "$date" : "2023-09-12T15:14:35.141730500Z"
+  },
+  "theme" : "Corvin",
+  "price" : 60.51,
+  "courseProgramm" : {
+    "programm" : "hwfe3m0udbzfym5uaqx8j4nsekwmqv1diqyaow8j6jzrmh2fv9wliv3gre5pcdzhwnnlysi7dgm6gr"
+  },
+  "courseDescription" : {
+    "description" : "5zf4xhr0m9cjgbyr3o06kqdv3a447dja9e0ox6hehqiewip0w7eohrlmv5uhqn76xg8fgrg8bzcusxvb40afw55c799qk"
+  },
+  "events" : [ {
+    "id" : "8e701d11-721b-492b-b7cc-fca90261ef96",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.141730500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.141730500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-16T16:14:35.141730500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-16T18:14:35.141730500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Paul Peters-Gasse 81b",
+      "houseNumber" : 138,
+      "zip" : 1825,
+      "city" : "Innsbruck",
+      "country" : "Uruguay"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "5e812c58-69a4-496c-9e72-3b3b77cb7ce6",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.141730500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.141730500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-23T16:14:35.141730500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-23T18:14:35.141730500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Paul Peters-Gasse 81b",
+      "houseNumber" : 138,
+      "zip" : 1825,
+      "city" : "Innsbruck",
+      "country" : "Uruguay"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "38ad44d1-7535-4b2b-a24b-88059fc54c84",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.141730500Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.141730500Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-30T16:14:35.141730500Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-30T18:14:35.141730500Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Paul Peters-Gasse 81b",
+      "houseNumber" : 138,
+      "zip" : 1825,
+      "city" : "Innsbruck",
+      "country" : "Uruguay"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  } ],
+  "pairCourse" : true
+}, {
+  "id" : "ff5a8dc0-529a-40b7-827f-d4c1a2ed6aa6",
+  "createdAt" : {
+    "$date" : "2023-08-15T15:14:35.141730500Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-08-15T15:14:35.141730500Z"
+  },
+  "startsAt" : {
+    "$date" : "2023-08-16T16:14:35.144097Z"
+  },
+  "endsAt" : {
+    "$date" : "2023-08-16T18:14:35.144097Z"
+  },
+  "maxUsers" : 10,
+  "followerLeaderBalance" : 2,
+  "booked" : [ ],
+  "teachers" : [ ],
+  "address" : {
+    "street" : "Straßerau 05",
+    "houseNumber" : 556,
+    "zip" : 7040,
+    "city" : "Geiersberg",
+    "country" : "Heard und McDonaldinseln"
+  },
+  "courseType" : "LEVEL5",
+  "courseRequirement" : "LEVEL4",
+  "courseStatus" : "OPEN",
+  "runTime" : 5,
+  "bookAbleAt" : {
+    "$date" : "2023-08-15T15:14:35.141730500Z"
+  },
+  "bookAbleTo" : {
+    "$date" : "2023-10-03T15:14:35.141730500Z"
+  },
+  "theme" : "Alana",
+  "price" : 6.88,
+  "courseProgramm" : {
+    "programm" : "v6s78q4h2"
+  },
+  "courseDescription" : {
+    "description" : "u9nqh8knk87orkwnz1oavalaq19"
+  },
+  "events" : [ {
+    "id" : "9ff83e3a-09ac-4163-82ab-6bb547c51ef3",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.144097Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.144097Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-16T16:14:35.144097Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-16T18:14:35.144097Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Straßerau 05",
+      "houseNumber" : 556,
+      "zip" : 7040,
+      "city" : "Geiersberg",
+      "country" : "Heard und McDonaldinseln"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "72bf0693-cec0-4ac4-bedd-f7c208b9eb10",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.144097Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.144097Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-23T16:14:35.144097Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-23T18:14:35.144097Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Straßerau 05",
+      "houseNumber" : 556,
+      "zip" : 7040,
+      "city" : "Geiersberg",
+      "country" : "Heard und McDonaldinseln"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "4d19de29-c1e7-4c3a-b8e8-37f458a7cf2a",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.144097Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.144097Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-30T16:14:35.144097Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-30T18:14:35.144097Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Straßerau 05",
+      "houseNumber" : 556,
+      "zip" : 7040,
+      "city" : "Geiersberg",
+      "country" : "Heard und McDonaldinseln"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "4fe59a3d-4982-4cc3-9d70-3b31862e31cc",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.144097Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.144097Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-06T16:14:35.144097Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-06T18:14:35.144097Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Straßerau 05",
+      "houseNumber" : 556,
+      "zip" : 7040,
+      "city" : "Geiersberg",
+      "country" : "Heard und McDonaldinseln"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "d0f64792-e0cc-42a0-ba36-b84ca39299a3",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.144097Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.144097Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-13T16:14:35.144097Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-13T18:14:35.144097Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Straßerau 05",
+      "houseNumber" : 556,
+      "zip" : 7040,
+      "city" : "Geiersberg",
+      "country" : "Heard und McDonaldinseln"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  } ],
+  "pairCourse" : true
+}, {
+  "id" : "2cd2b864-0795-45a6-8b73-eed96f3236e6",
+  "createdAt" : {
+    "$date" : "2023-08-15T15:14:35.144097Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-08-15T15:14:35.144097Z"
+  },
+  "startsAt" : {
+    "$date" : "2023-08-16T16:14:35.144097Z"
+  },
+  "endsAt" : {
+    "$date" : "2023-08-16T18:14:35.144097Z"
+  },
+  "maxUsers" : 10,
+  "followerLeaderBalance" : 2,
+  "booked" : [ ],
+  "teachers" : [ ],
+  "address" : {
+    "street" : "Steingrüneredt 3",
+    "houseNumber" : 343,
+    "zip" : 3797,
+    "city" : "Gams bei Hieflau",
+    "country" : "Liechtenstein"
+  },
+  "courseType" : "LEVEL5",
+  "courseRequirement" : "LEVEL4",
+  "courseStatus" : "OPEN",
+  "runTime" : 2,
+  "bookAbleAt" : {
+    "$date" : "2023-08-15T15:14:35.144097Z"
+  },
+  "bookAbleTo" : {
+    "$date" : "2023-10-17T15:14:35.144097Z"
+  },
+  "theme" : "Hamza",
+  "price" : 8.91,
+  "courseProgramm" : {
+    "programm" : "1u2ui6j0nh9569zh4fid32eefdbrzdfnvihll74d0ars5nl1poiq5htaadogk9iyizf168fwjodl9i272i76vagtxdvyb195dpgjvve6rru5crpwcfkmb6lxg04t7chisena2xjlpjv3fxm9m2yenlmdu7u0qnlz8cd789d2wo8zu6extox5siylnwyrv6p28euht6gyhv0npg3bz"
+  },
+  "courseDescription" : {
+    "description" : "xv2v91whovdt9hd9xxhr47iro04gbpzml912gl0m74535mu3jygx67il0xj2t92mdf1kdtjpch85xcruf5uccwa4nsqyxxjlfkq9uxmcfu0vmedyqpjz8ssoqtkrr43mhhcg2h4mjcehy6jds3fgxu4dd1rm7il5rlq"
+  },
+  "events" : [ {
+    "id" : "1ed1e616-89f6-47b7-93c6-cad0e3844748",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.144097Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.144097Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-16T16:14:35.144097Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-16T18:14:35.144097Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Steingrüneredt 3",
+      "houseNumber" : 343,
+      "zip" : 3797,
+      "city" : "Gams bei Hieflau",
+      "country" : "Liechtenstein"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "a8b884b2-d93f-4970-9a74-c66a1e4c140e",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.144097Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.144097Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-23T16:14:35.144097Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-23T18:14:35.144097Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Steingrüneredt 3",
+      "houseNumber" : 343,
+      "zip" : 3797,
+      "city" : "Gams bei Hieflau",
+      "country" : "Liechtenstein"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  } ],
+  "pairCourse" : true
+}, {
+  "id" : "cc344e19-6e03-4566-ba88-68fce78eade9",
+  "createdAt" : {
+    "$date" : "2023-08-15T15:14:35.144097Z"
+  },
+  "updatedAt" : {
+    "$date" : "2023-08-15T15:14:35.144097Z"
+  },
+  "startsAt" : {
+    "$date" : "2023-08-16T16:14:35.144097Z"
+  },
+  "endsAt" : {
+    "$date" : "2023-08-16T18:14:35.144097Z"
+  },
+  "maxUsers" : 10,
+  "followerLeaderBalance" : 2,
+  "booked" : [ ],
+  "teachers" : [ ],
+  "address" : {
+    "street" : "Dr.-Oberreiter-Straße 08c",
+    "houseNumber" : 58,
+    "zip" : 5045,
+    "city" : "Gößnitz",
+    "country" : "Vereinigtes Königreich"
+  },
+  "courseType" : "LEVEL5",
+  "courseRequirement" : "LEVEL4",
+  "courseStatus" : "OPEN",
+  "runTime" : 9,
+  "bookAbleAt" : {
+    "$date" : "2023-08-15T15:14:35.144097Z"
+  },
+  "bookAbleTo" : {
+    "$date" : "2023-10-17T15:14:35.144097Z"
+  },
+  "theme" : "Kimi",
+  "price" : 90.2,
+  "courseProgramm" : {
+    "programm" : "0l20w0t9lg3z7i7n7d0w2aa0avwyng"
+  },
+  "courseDescription" : {
+    "description" : "b0uyct9b06iy3div38n4yrdplkragyo2jvdmpijbkqeu3po88zc6klybg8dp2z4eriavhjsgg7pbtlz0me5qi"
+  },
+  "events" : [ {
+    "id" : "81cd64f7-8745-460c-a2ba-6bbd520ac5df",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.145663800Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.145663800Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-16T16:14:35.144097Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-16T18:14:35.144097Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "bfd2451a-3853-435b-82ba-2558ef436b81",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.145663800Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.145663800Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-23T16:14:35.144097Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-23T18:14:35.144097Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "a0dd7cbf-4078-4e41-811b-985f0d47e271",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.145663800Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.145663800Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-08-30T16:14:35.144097Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-08-30T18:14:35.144097Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "1e45a158-fea9-445c-80f1-88c39f328351",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.145663800Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.145663800Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-06T16:14:35.144097Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-06T18:14:35.144097Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "3f4f41e0-c5f0-4936-b847-b3e5461bb5e7",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.145663800Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.145663800Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-13T16:14:35.144097Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-13T18:14:35.144097Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "2489b4d3-bfd9-4760-845b-56568425e569",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.145663800Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.145663800Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-20T16:14:35.144097Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-20T18:14:35.144097Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "73080c1d-ab8b-42ce-920c-62e4824f7e92",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.145663800Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.145663800Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-09-27T16:14:35.144097Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-09-27T18:14:35.144097Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "d6b435c0-170c-4a19-bcfe-9089660ae944",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.145663800Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.145663800Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-10-04T16:14:35.144097Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-10-04T18:14:35.144097Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  }, {
+    "id" : "216505d8-5f78-44ca-a6f7-de7fc6036613",
+    "createdAt" : {
+      "$date" : "2023-08-15T15:14:35.145663800Z"
+    },
+    "updatedAt" : {
+      "$date" : "2023-08-15T15:14:35.145663800Z"
+    },
+    "startsAt" : {
+      "$date" : "2023-10-11T16:14:35.144097Z"
+    },
+    "endsAt" : {
+      "$date" : "2023-10-11T18:14:35.144097Z"
+    },
+    "maxUsers" : 10,
+    "followerLeaderBalance" : 2,
+    "booked" : [ ],
+    "teachers" : [ ],
+    "address" : {
+      "street" : "Dr.-Oberreiter-Straße 08c",
+      "houseNumber" : 58,
+      "zip" : 5045,
+      "city" : "Gößnitz",
+      "country" : "Vereinigtes Königreich"
+    },
+    "courseType" : "LEVEL5",
+    "courseRequirement" : "LEVEL4",
+    "courseStatus" : "OPEN",
+    "video" : null,
+    "attended" : [ ],
+    "pairCourse" : true
+  } ],
+  "pairCourse" : true
+} ]
